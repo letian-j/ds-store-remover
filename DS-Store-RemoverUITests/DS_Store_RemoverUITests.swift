@@ -1,13 +1,13 @@
 //
-//  DsStoreRemoverUITests.swift
-//  DsStoreRemoverUITests
+//  DS_Store_RemoverUITests.swift
+//  DS-Store-RemoverUITests
 //
 //  Created by administrator on 2025/7/1.
 //
 
 import XCTest
 
-final class DsStoreRemoverUITests: XCTestCase {
+final class DS_Store_RemoverUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

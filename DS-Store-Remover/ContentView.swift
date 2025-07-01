@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  DsStoreRemover
+//  DS-Store-Remover
 //
 //  Created by administrator on 2025/7/1.
 //

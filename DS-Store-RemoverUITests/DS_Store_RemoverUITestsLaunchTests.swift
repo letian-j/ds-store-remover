@@ -1,13 +1,13 @@
 //
-//  DsStoreRemoverUITestsLaunchTests.swift
-//  DsStoreRemoverUITests
+//  DS_Store_RemoverUITestsLaunchTests.swift
+//  DS-Store-RemoverUITests
 //
 //  Created by administrator on 2025/7/1.
 //
 
 import XCTest
 
-final class DsStoreRemoverUITestsLaunchTests: XCTestCase {
+final class DS_Store_RemoverUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

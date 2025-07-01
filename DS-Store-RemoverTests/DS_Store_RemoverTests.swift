@@ -1,14 +1,14 @@
 //
-//  DsStoreRemoverTests.swift
-//  DsStoreRemoverTests
+//  DS_Store_RemoverTests.swift
+//  DS-Store-RemoverTests
 //
 //  Created by administrator on 2025/7/1.
 //
 
 import Testing
-@testable import DsStoreRemover
+@testable import DS_Store_Remover
 
-struct DsStoreRemoverTests {
+struct DS_Store_RemoverTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
