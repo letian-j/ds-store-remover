@@ -12,6 +12,6 @@ DS-Store-Remover for macOS
 
 ## Other Methods to Remove .DS_Store Files
 ```bash
-cd documents
+cd /Users/administrator/Documents
 find . -name .DS_Store -type f -delete
 ```
