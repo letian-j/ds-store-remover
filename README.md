@@ -10,6 +10,12 @@ DS-Store-Remover for macOS
 ![](Image1.png)
 ![](Image2.png)
 
+## The application can't be opened
+![](Image3.png)
+```bash
+sudo xattr -cr /Applications/Ds-Store-Remover
+```
+
 ## Other Methods to Remove .DS_Store Files
 ```bash
 cd /Users/administrator/Documents
